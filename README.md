@@ -4,7 +4,7 @@ This application manages a queue-client system. The main objective is to assigne
 
 ## Requirements
 
-Running of hte program requires an IDE for Java development.
+Running of the program requires an IDE for Java development.
 I personally use IntelliJ IDEA Community 2021.2.3
 
 ```bash
